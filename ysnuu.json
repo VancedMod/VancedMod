@@ -59,7 +59,7 @@
 "description_player":"Best player to work with BeeTV. Less ads and better streaming!",
 "link_download_player":"https://github.com/onesavercontact/agg/releases/download/1.2.1x/1.2.1x.apk",
 "package_name_player":"com.titanx.videoplayerz",
-"enable_amz":true,
+"enable_amz":false,
 "adoech_enable":false,
 "oneplayer_version_build":"22",
 "openload_key":"DtsBlkVFQx",
